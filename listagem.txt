@@ -2,3 +2,5 @@ Computador
 portatil
 telemovel
 tablet
+impressora
+teclado
