@@ -3,3 +3,4 @@ portatil
 telemovel
 tablet
 impressora
+teclado
